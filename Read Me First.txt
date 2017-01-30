@@ -1,0 +1,16 @@
+Login Details
+
+Admin
+
+Matric: 1102543
+Password: 12345
+
+
+Normal Users
+
+Matric: 1006700
+Password: 12345
+
+
+Matric: 1145600
+Password: 12345
