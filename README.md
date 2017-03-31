@@ -1,7 +1,7 @@
 # cafe
 A restaurant web app for campuses with e-Wallet, run with campus though.
-Order your meal at your convinence in your hostel.
-No Delivery Though, When your set get to the Cafeteria then Pick your Meal at your leisure time.
+Order your meal at your convenience in your hostel.
+No Delivery Though, When your set, get to the Cafeteria, Pick your Meal, Simple.
 Lastly it has this amazing User Interface.
 
 Check the readme text file inside to see Login Details
